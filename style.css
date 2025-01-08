@@ -21,6 +21,7 @@
 
 #menusuperior{
     background-image: url(./imagens/fundo-menusuperior.svg);
+    background-size: cover;
     color: aliceblue;
 }
 
